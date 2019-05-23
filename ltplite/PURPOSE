@@ -1,0 +1,3 @@
+PURPOSE of /kernel/root/Regression/ltplite
+Description: small set of ltp testing for kernel validating
+Author: Gustavo Walbon <gwalbon@linux.ibm.com>
